@@ -1,8 +1,0 @@
-com/dell/autoscaling101/Controller.java
- com.dell.autoscaling101.Controller
-com/dell/autoscaling101/SecurityConfig.java
- com.dell.autoscaling101.SecurityConfig
-com/dell/autoscaling101/ExampleController.java
- com.dell.autoscaling101.ExampleController
-com/dell/autoscaling101/Autoscaling101Application.java
- com.dell.autoscaling101.Autoscaling101Application

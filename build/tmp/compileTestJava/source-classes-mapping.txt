@@ -1,2 +1,0 @@
-com/dell/autoscaling101/Autoscaling101ApplicationTests.java
- com.dell.autoscaling101.Autoscaling101ApplicationTests
