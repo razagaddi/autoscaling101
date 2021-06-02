@@ -1,7 +1,0 @@
-config:
-  environments:
-    local-dev:
-      target: "http://localhost:8080"
-      phases:
-      - arrivalRate: 50        
-        duration: 60

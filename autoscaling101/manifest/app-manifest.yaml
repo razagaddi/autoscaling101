@@ -1,8 +1,0 @@
----
-applications:
-- name: app-autoscaling101
-  path: ../build/libs/autoscaling101-0.0.1-SNAPSHOT.jar
-  services:
-  - Dell-Autoscaler
-  routes:  
-  - route: raza-apps-autoscaling101.apps.pcfone.io
